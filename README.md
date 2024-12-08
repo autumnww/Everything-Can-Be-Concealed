@@ -17,15 +17,15 @@
 
 Download the following dataset for train:
 
-- COCO
+- [COCO](https://cocodataset.org/#home)
 
 Download the following dataset for test:
 
-- PASCAL-S
-- ECSSD
-- HKU-IS
-- DUT-OMRON
-- DUTS
+- [PASCAL-S](http://cbi.gatech.edu/salobj/)
+- [ECSSD](https://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)
+- [HKU-IS](https://i.cs.hku.hk/~gbli/deep_saliency.html)
+- [DUT-OMRON](http://saliencydetection.net/dut-omron/)
+- [DUTS](http://saliencydetection.net/duts/)
 
 ### 3. Training
 
