@@ -29,7 +29,7 @@ Download the following dataset for test:
 
 ### 3. Training
 
-```sh
+```
 cd scipts
 bash train.sh
 ```
