@@ -11,7 +11,7 @@
 - dominate==2.6.0
 - numpy==1.19.5
 - opencv-python==4.10.0.84 
-- Pillow==9.3.0
+- pillow==9.3.0
 - scikit_image==0.17.2
 - torch==2.0
 - pytorch-lightning== 2.3.0 
