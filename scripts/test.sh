@@ -18,10 +18,10 @@ test_epoch=50
 
 #####network design
 datasetmode=new
-content_dir=""
-style_dir=""
+content_dir="" # testset
+style_dir="" # testset
 NAME="last.ckpt" 
-checkpoint=''''
+checkpoint=''./chectpoint'' # the folder where the model is located
 
 CMD="python ../main.py \
 --name $NAME \
