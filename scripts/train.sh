@@ -24,10 +24,10 @@ fft_num=2
 patch_num=4
 
 datasetmode=new
-content_dir=""
-style_dir=""
-NAME=""
-checkpoint=''''
+content_dir="" # trainset 
+style_dir="" # trainset
+NAME="" # the dir of the checkpoint to save the model
+checkpoint=''./checkpoint''
 
 CMD="python ../main.py \
 --name $NAME \
