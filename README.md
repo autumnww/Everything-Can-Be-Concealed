@@ -35,7 +35,7 @@ cd scipts
 bash train.sh
 ```
 
-- `vgg_normalised.pt` is used as the encoder 
+- Pretrained `vgg_normalised.pt` is used as the encoder 
 - After training, the results models will be saved in `checkpoint` folder
 
 ### 4. Testing
