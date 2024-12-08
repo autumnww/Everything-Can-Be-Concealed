@@ -1,1 +1,1 @@
-# Everything Can Be Concealed: Camouflaged Object Generation via<br><div align="center">Finegrained Painting</div>
+# Everything Can Be Concealed: Camouflaged Object<br><div align="center">Generation via Finegrained Painting</div>
