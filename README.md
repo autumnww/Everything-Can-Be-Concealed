@@ -1,6 +1,7 @@
 <div align="center">
-<h3>Everything Can Be Concealed: Camouflaged Object Generation via Finegrained Painting</h3>
+<h1>Everything Can Be Concealed: Camouflaged Object Generation via Finegrained Painting</h1>
 </div>
+
 > Zhenyu Wu, Qiuwei Li, Xuehao Wang, Fengmao Lv
 
 ## Get Start
