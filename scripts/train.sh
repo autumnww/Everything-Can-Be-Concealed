@@ -26,7 +26,7 @@ patch_num=4
 datasetmode=new
 content_dir="" # trainset 
 style_dir="" # trainset
-NAME="" # the dir of the checkpoint to save the model
+NAME="" # the folder where the model will be saved
 checkpoint=''./checkpoint''
 
 CMD="python ../main.py \
