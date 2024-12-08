@@ -19,11 +19,11 @@
 
 ### 2. Dataset
 
-Download the following dataset for train:
+Download the following dataset for training:
 
 - [COCO](https://cocodataset.org/#home)
 
-Download the following dataset for test:
+Download the following dataset for testing:
 
 - [PASCAL-S](http://cbi.gatech.edu/salobj/)
 - [ECSSD](https://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)
